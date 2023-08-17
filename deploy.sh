@@ -1,4 +1,5 @@
 Updating in uat branch.
+Assalamualaikum wr wb, Checking git fetch command y'all
 Hello, I am updating this file in master branch...
 Hi, updating this line from development branch for second time.
 Updating in Development branch.
